@@ -34,9 +34,21 @@ MySQL Container
 
 Managed using Docker Compose
 
-## Screenshots
 
-(Add screenshots here after uploading them)
+### EC2 Instance
+![EC2 Instance](screenshots/ec2.png)
+
+### Docker Images
+![Docker Images](screenshots/docker-images.png)
+
+### Running Containers
+![Containers](screenshots/docker-ps.png)
+
+### Nginx Configuration
+![Nginx](screenshots/nginx.png)
+
+### Application Output
+![PetClinic](screenshots/petclinic.png)
 
 ## Key Learnings
 
